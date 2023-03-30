@@ -12,7 +12,7 @@ import (
 var (
 	host     = "localhost"
 	user     = "postgres"
-	password = "54n_L34rn1n9"
+	password = "postgres"
 	dbPort   = "5432"
 	dbName   = "kominfo-project2"
 	db       *gorm.DB
